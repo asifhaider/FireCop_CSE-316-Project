@@ -19,10 +19,10 @@ This micro-controller-based automated, low-cost movable robot is facilitated wit
 ## Under the Supervision of:
 
 - **Md. Shariful Islam Bhuyan** 
-Assistant Professor, CSE, BUET
+-- Assistant Professor, CSE, BUET
 
 - **Sukarna Barua**
-Assistant Professor, CSE, BUET
+-- Assistant Professor, CSE, BUET
 
 - **Md. Masum Mushfiq**
-Lecturer, CSE, BUET
+-- Lecturer, CSE, BUET
