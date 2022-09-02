@@ -10,19 +10,19 @@ This micro-controller-based automated, low-cost movable robot is facilitated wit
 
 ## Group Members: 
 
-> **Md. Asif Haider** (1805112)
-> **K. M. Fahim Shahriyar** (1805113)
-> **Azizur Rahman Anik** (1805115)
-> **Mashiyat Mahjabin Prapty** (1805117)
+- **Md. Asif Haider** (1805112)
+- **K. M. Fahim Shahriyar** (1805113)
+- **Azizur Rahman Anik** (1805115)
+- **Mashiyat Mahjabin Prapty** (1805117)
 
 
 ## Under the Supervision of:
 
-> **Md. Shariful Islam Bhuyan** 
+- **Md. Shariful Islam Bhuyan** 
 Assistant Professor, CSE, BUET
 
-> **Sukarna Barua**
+- **Sukarna Barua**
 Assistant Professor, CSE, BUET
 
-> **Md. Masum Mushfiq**
+- **Md. Masum Mushfiq**
 Lecturer, CSE, BUET
