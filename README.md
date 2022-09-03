@@ -7,7 +7,7 @@
 
 This micro-controller-based automated, low-cost movable robot is facilitated with a minimalistic water supply system to extinguish the fire in a small area. The key component of the bot is an Arduino Uno as the microcontroller and an IR flame detector as the sensory module. Motor drivers have been used to connect the DC water pump that ejects water via a plastic pipe and the DC gear motors that runs the wheels. A servo motor controls the angular rotation of the sensor body. A buzzer module alerts the surroundings when a fire is detected. Finally, rechargeable Li-ion batteries have been used to power up the whole system. 
 
-[Robot](https://drive.google.com/file/d/1QIvSklyWGptiUEnMgS_ZRZmtgX-zviSK/view?usp=sharing)
+![Robot](https://drive.google.com/file/d/1QIvSklyWGptiUEnMgS_ZRZmtgX-zviSK/view?usp=sharing)
 
 
 ## Group Members: 
