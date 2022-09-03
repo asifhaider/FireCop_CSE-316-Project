@@ -27,5 +27,4 @@ This micro-controller-based automated, low-cost movable robot is facilitated wit
 - **Md. Masum Mushfiq**
 (Lecturer, CSE, BUET)
 
-### Video Demonstration: 
-(https://youtu.be/CnTP4tx_aeA)[YouTube Link]
+### Video Demonstration: (YouTube Link)[https://youtu.be/CnTP4tx_aeA]
