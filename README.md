@@ -2,6 +2,7 @@
 
 ## FireCop - A Miniature Fire Fighting Robot
 
+![Robot](Robot.png)
 
 ## Brief Description: 
 
